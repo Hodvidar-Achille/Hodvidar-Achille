@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hodvidar-Achille.
 - 👀 I’m interested in coding puzzles.
-- 🌱 I’m currently learning more about Java15, Spring, SQL.
+- 🌱 I’m currently learning more about Java21, Spring, SQL.
 - 💞️ I’m looking to collaborate on project using Java and Spring.
 - 📫 How to reach me : achille.genet@pm.me
 
